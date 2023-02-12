@@ -7,3 +7,4 @@ console.log('Hi Mom!');
 
 let num;
 console.log(num);
+console.log("Another one");
